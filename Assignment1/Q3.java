@@ -1,3 +1,4 @@
+//Maheshwar(2141014002)
 //Write a program to find the reverse of a number.
 public class Q3 {
     static int rev=0;

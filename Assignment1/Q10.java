@@ -1,3 +1,4 @@
+//Maheshwar(2141014002)
 //Given a sorted array, rearrange it in maximum-minimum form.
 import java.util.Arrays;
 public class Q10 {

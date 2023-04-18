@@ -1,3 +1,4 @@
+//Maheshwar(2141014002)
 //. Given an array you need to find the maximum sum of arr[i]*(i+1) for
 //all elements such that you are allowed to rotate the array.
 

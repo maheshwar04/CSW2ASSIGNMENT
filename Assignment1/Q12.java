@@ -1,3 +1,4 @@
+//Maheshwar(2141014002)
 //Given an array arr[], find the maximum distance of index j and I, such
 //that arr[j]¿arr[I].
 public class Q12 {

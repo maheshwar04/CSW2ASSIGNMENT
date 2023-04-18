@@ -1,3 +1,4 @@
+//Maheshwar(2141014002)
 /*
  Write a java program to convert a decimal to binary equivalent using
 stack(Stack collection).

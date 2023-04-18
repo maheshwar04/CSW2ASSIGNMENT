@@ -1,3 +1,4 @@
+//Maheshwar(2141014002)
 //Given an array of positive and negative integers, write a program to
 //find a contiguous subarray whose sum of elements is maximum.
 public class Q6 {

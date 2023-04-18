@@ -5,6 +5,7 @@ display it
  */
 import java.util.HashMap;
 
+//Maheshwar(2141014002)
 public class Q6 {
     public static void main(String[] args) {
         HashMap<String, Integer> hashMap = new HashMap<>();
