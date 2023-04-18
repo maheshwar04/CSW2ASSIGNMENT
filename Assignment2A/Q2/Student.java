@@ -1,3 +1,4 @@
+package Q2;
 /*Create a class Student having member variable name, age, mark and
 required member variable. Create an LikedList of Student type and
 perform the below operation on it.
@@ -7,7 +8,6 @@ the object. Specify is the object is search according to reference
 or contain.
 (c.) Remove an specified student object.
 (d.) Count the number of object present in the list */
-package Q2;
 import java.util.Scanner;
 public class Student {
         private String name;
