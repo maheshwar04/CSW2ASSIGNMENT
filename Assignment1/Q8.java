@@ -24,13 +24,12 @@ public class Q8 {
                 }
             }
             
-            // Then, iterate over the non-negative values and move them to their correct positions
             for (int i = 0; i < arr.length-1; i++) {
                 if (arr[i] != -1 && arr[i] != i) {
                     int temp = arr[arr[i]];
                     arr[arr[i]] = arr[i];
                     arr[i] = temp;
-                    i--;  // Check the current position again, in case the new value also needs to be moved
+                    i--;  
                 }
             }
             return arr;
