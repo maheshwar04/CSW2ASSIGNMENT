@@ -1,7 +1,7 @@
 //Maheshwar(2141014002)
 //Given a sorted array, rearrange it in maximum-minimum form.
 import java.util.Arrays;
-public class Q10 {
+public class A1Q10 {
     public static int[] maxMin(int arr[]){
         int temp[]=new int[arr.length];
         int start=0;

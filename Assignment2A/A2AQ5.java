@@ -8,12 +8,12 @@ import java.util.ArrayDeque;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Q5 {
+public class A2AQ5 {
     
     private int numVertices;
     private List<List<Integer>> adjList;
     
-    public Q5(int numVertices) {
+    public A2AQ5(int numVertices) {
         this.numVertices = numVertices;
         adjList = new ArrayList<>(numVertices);
         for (int i = 0; i < numVertices; i++) {
@@ -48,7 +48,7 @@ public class Q5 {
     }
     
     public static void main(String[] args) {
-       Q5 graph = new Q5(5);
+       A2AQ5 graph = new A2AQ5(5);
         graph.addEdge(0, 1);
         graph.addEdge(0, 2);
         graph.addEdge(1, 3);

@@ -2,7 +2,7 @@
 //Given an array, write a program to rotate its element K numbers of
 //times
 import java.util.Arrays;
-public class Q5 {
+public class A1Q5 {
     public static int[] reverse(int arr[],int start ,int end){
         while(start<end){
             int temp=arr[start];

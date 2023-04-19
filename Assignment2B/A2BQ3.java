@@ -7,7 +7,7 @@ the process. Write a java program which take N process burst time
 and print the scheduling sequence using SRTN.
  */
 import java.util.*;
-public class Q3{
+public class A2BQ3{
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter the number of processes: ");

@@ -1,6 +1,6 @@
 //Maheshwar(2141014002)
 //Write a program to find the binary equivalent of a decimal number.
-public class Q2 {
+public class A1Q2 {
     public static int BinarytoDecimal(int n){
        int decimalValue=0;
        int temp=n;

@@ -6,7 +6,7 @@ a few elements from another array. The element switching can happen
 at transition points only when the element value is the same in both
 arrays
  */
-public class Q13 {
+public class A1Q13 {
 	static int max(int x, int y) { return (x > y) ? x : y; }
 	public static int maxPathSum(int ar1[], int ar2[], int m, int n)
 	{

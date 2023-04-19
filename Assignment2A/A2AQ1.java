@@ -11,7 +11,7 @@ present in the list or not.
  
  import java.util.ArrayList;
 import java.util.Scanner;
-public class Q1{ 
+public class A2AQ1{ 
     public static void main(String[] args) {
         ArrayList<Integer> list = new ArrayList<>();
         Scanner scanner = new Scanner(System.in);

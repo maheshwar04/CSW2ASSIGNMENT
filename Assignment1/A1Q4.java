@@ -1,6 +1,6 @@
 //Maheshwar(2141014002)
 //Write a program to search an element using binary search.
-public class Q4 {
+public class A1Q4 {
     public static int BinarySearch(int arr[],int target){
         int start=0;
         int end=arr.length-1;

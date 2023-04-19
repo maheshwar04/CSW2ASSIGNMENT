@@ -1,5 +1,5 @@
 //Maheshwar(2141014002)
-package Assignment2B.Q2;
+package Assignment2B.A2BQ2;
 /*
   Write a program to create a class named it as Address, having member
 variable plot no, at, post and required member function. Create a

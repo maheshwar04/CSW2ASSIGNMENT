@@ -2,7 +2,7 @@
 //. Given an array you need to find the maximum sum of arr[i]*(i+1) for
 //all elements such that you are allowed to rotate the array.
 
-public class Q11 {
+public class A1Q11 {
    public static int  maximumSum(int arr[]){
     int maxSum=Integer.MIN_VALUE;
     for (int i = 0; i < arr.length; i++){
@@ -18,7 +18,7 @@ public class Q11 {
    }
         
 public static void main(String[] args) {
-    int arr[]={4,3,2,1};
+    int arr[]={1,2,3,4};
     System.out.println(maximumSum(arr));
 }
 }

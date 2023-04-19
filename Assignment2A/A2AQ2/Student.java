@@ -1,3 +1,4 @@
+package A2AQ2;
 //Maheshwar(2141014002)
 /*Create a class Student having member variable name, age, mark and
 required member variable. Create an LikedList of Student type and
@@ -128,11 +129,11 @@ public class Student {
     public static void main(String[] args) {
         StudentLinkedList list = new StudentLinkedList();
 
-        list.add(new Student("Alice", 20, 80.0));
-        list.add(new Student("Bob", 21, 75.0));
-        list.add(new Student("Charlie", 19, 85.0));
-        list.add(new Student("David", 22, 90.0));
-        list.add(new Student("Eve", 18, 70.0));
+        list.add(new Student("Maheshwar", 20, 80.0));
+        list.add(new Student("Aryan", 21, 75.0));
+        list.add(new Student("Amit", 19, 85.0));
+        list.add(new Student("You", 22, 90.0));
+        list.add(new Student("me", 18, 70.0));
 
         Scanner sc = new Scanner(System.in);
         System.out.println("List of students:");

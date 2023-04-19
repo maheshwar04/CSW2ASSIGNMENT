@@ -3,7 +3,7 @@
   Write a java program to evaluate a postfix expression using Stack.
  */
 import java.util.Stack;
-public class Q4 {
+public class A2AQ4 {
     public static int postfixEvaluate(String expression) {
         Stack<Integer> stack = new Stack<>();
         for (int i = 0; i < expression.length(); i++) {

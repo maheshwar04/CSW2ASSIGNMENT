@@ -5,12 +5,12 @@ Stack collection )
  */
 import java.util.*;
 
-public class Q6{
+public class A2AQ6{
 
     private int numVertices;
     private LinkedList<Integer>[] adjacencyList;
 
-    public Q6(int numVertices) {
+    public A2AQ6(int numVertices) {
         this.numVertices = numVertices;
         adjacencyList = new LinkedList[numVertices];
         for (int i = 0; i < numVertices; i++) {
@@ -46,7 +46,7 @@ public class Q6{
     }
 
     public static void main(String[] args) {
-        Q6 graph = new Q6(5);
+        A2AQ6 graph = new A2AQ6(5);
         graph.addEdge(0, 1);
         graph.addEdge(0, 2);
         graph.addEdge(1, 3);

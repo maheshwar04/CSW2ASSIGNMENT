@@ -1,6 +1,6 @@
 //Maheshwar(2141014002)
 //Write a program to check whether a number is prime or not.
-public class Q1{
+public class A1Q1{
     public static  boolean isPrime(int n){
         if(n==0||n==1){
             return false;

@@ -1,6 +1,6 @@
 //Maheshwar(2141014002)
 //Write a program to find the reverse of a number.
-public class Q3 {
+public class A1Q3 {
     static int rev=0;
      public static void Reverse(int n){
         int temp=n;

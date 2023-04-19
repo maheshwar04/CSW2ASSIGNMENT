@@ -2,7 +2,7 @@
 /*
  Write a recursive algorithm to solve the Tower of Hanoi problem.
  */
-public class Q14 {
+public class A1Q14 {
     public static void towerOfHanoi(int n, char startRod, char endRod, char tempRod){
         if (n == 0) {
             return;
@@ -12,7 +12,7 @@ public class Q14 {
         towerOfHanoi(n - 1, tempRod,endRod,startRod);
     }
   public static void main(String[] args) {
-    int n=5;
+    int n=3;
     towerOfHanoi(n, 'A', 'C','B');
   }
 }

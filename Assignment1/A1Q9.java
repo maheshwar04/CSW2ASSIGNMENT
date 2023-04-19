@@ -3,7 +3,7 @@ import java.util.HashSet;
 import java.util.Set;
 //Given an unsorted array, find the smallest positive number missing in
 //the array.
-public class Q9 {
+public class A1Q9 {
     public static int findSmallestPositiveMissingNumber(int[] arr) {
         Set<Integer> set = new HashSet<Integer>();
         for (int i = 0; i < arr.length; i++) {

@@ -6,7 +6,7 @@ data structure so that no duplicate element is present in that
  */
 import java.util.Scanner;
 import java.util.HashSet;
-public class Q7 {
+public class A2BQ7 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter the number of elements: ");

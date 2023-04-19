@@ -5,7 +5,7 @@ package Assignment2B;
 into it and display it
  */
 import java.util.HashSet;
-public class Q4 {
+public class A2BQ4 {
     public static void main(String[] args) {
         HashSet<String> mySet = new HashSet<>();
         mySet.add("apple");
@@ -14,9 +14,8 @@ public class Q4 {
         mySet.add("durian");
         mySet.add("elderberry");
         System.out.println("The HashSet contains:");
-        for (String element : mySet) {
-            System.out.println(element);
-        }
+            System.out.println(mySet);
+        
     }
 }
 

@@ -2,7 +2,7 @@
 package Assignment2B;
 import java.util.LinkedHashSet;
 
-public class Q5 {
+public class A2BQ5 {
     public static void main(String[] args) {
         LinkedHashSet<Double> linkedHashSet = new LinkedHashSet<>();
         linkedHashSet.add(3.14);

@@ -5,7 +5,7 @@ stack(Stack collection).
  */
 import java.util.Scanner;
 import java.util.Stack;
-public class Q3 {
+public class A2AQ3 {
     public static void main(String[] args) {  
         Stack<Integer> binaryStack = new Stack<>(); 
         Scanner sc = new Scanner(System.in);

@@ -9,7 +9,7 @@ present in the list or not.
 (c.) Remove an element from tree
  */
 import java.util.*;
-public class Q1 {
+public class A2BQ1 {
       public static void main(String[] args) {
         TreeSet<Integer> ts=new TreeSet<Integer>();
         ts.add(1);
@@ -19,7 +19,7 @@ public class Q1 {
         ts.add(5);
         System.out.println(ts);
         Scanner sc=new Scanner(System.in);
-        System.out.println("Enter the number");
+        System.out.println("Enter the number you want to find");
          int n=sc.nextInt();
          if(ts.contains(n)){
             System.out.println("number is present in the list");

@@ -2,7 +2,7 @@
 //Given an array, write a program to arrange its elements in waveform
 //such that odd elements are lesser than its neighboring even elements.
 import java.util.*;
-public class Q7 {
+public class A1Q7 {
     static void swap(int arr[],int a ,int b){
         int temp=arr[a];
         arr[a]=arr[b];

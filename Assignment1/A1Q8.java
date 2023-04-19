@@ -5,7 +5,7 @@ import java.util.Arrays;
 from 0 to N-1 are present in array and if they are not there than -1 is
 there to take place. Write a program to arrange values of the array so
 that value i is stored at arr[i]. */
-public class Q8 {
+public class A1Q8 {
         public static int[] sortArray(int[] arr) {
            //taking -1 at last of the array
            int start=0;
