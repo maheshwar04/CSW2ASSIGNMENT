@@ -3,7 +3,7 @@
 Write a recursive function to search an element using binary search.
 Analyze its time complexity.
  */
-public class Q17 {
+public class A1Q17 {
     public static int BinarySearch(int arr[],int target,int start,int end){
         while(start<=end){
               int mid=start+(end-start)/2;
