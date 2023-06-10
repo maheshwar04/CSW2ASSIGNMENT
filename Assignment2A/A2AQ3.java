@@ -25,5 +25,4 @@ public class A2AQ3 {
         
         System.out.println("Binary equivalent: " + binaryNumber.toString());
     }
-    
 }
