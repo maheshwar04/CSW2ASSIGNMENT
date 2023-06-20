@@ -1,5 +1,4 @@
 package Assignment3;
-
 import java.util.Arrays;
 
 public class A3Q1 {
